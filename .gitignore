@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+leo
+db.sqlite3
+/static
+.DS_Store
+0-O_que_é_cada_coisa.txt
